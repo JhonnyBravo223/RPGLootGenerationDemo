@@ -6,6 +6,8 @@
 
 This is a comprehensive loot generation system built for **Re:Armed**, a loot-driven multiplayer game featuring robots with transformation abilities. The system demonstrates enterprise-level architecture with PostgreSQL database integration, materialized views for performance optimization, and a sophisticated procedural generation algorithm.
 
+![Drops](TestDrops.png) 
+
 **Key Technologies:** C# (.NET 8), PostgreSQL, Npgsql, JSON-based configuration
 
 ---
